@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sepsis-scan/static/css/main.6fe2e404.css",
+    "main.js": "/sepsis-scan/static/js/main.7c7ca270.js",
+    "static/js/453.145d6d1b.chunk.js": "/sepsis-scan/static/js/453.145d6d1b.chunk.js",
+    "index.html": "/sepsis-scan/index.html",
+    "main.6fe2e404.css.map": "/sepsis-scan/static/css/main.6fe2e404.css.map",
+    "main.7c7ca270.js.map": "/sepsis-scan/static/js/main.7c7ca270.js.map",
+    "453.145d6d1b.chunk.js.map": "/sepsis-scan/static/js/453.145d6d1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fe2e404.css",
+    "static/js/main.7c7ca270.js"
+  ]
+}
